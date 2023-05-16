@@ -1,0 +1,3 @@
+WEB-BASED LIGHT, GAS & TEMPERATURE MONITORING SYSTEM
+
+This system was created to monitor the business and avoid it from losses brought on by incidents. To avoid any workplace accidents and losses, the system uses temperature monitoring together with light, gas, and low lighting sensors to detect fire, gas leakage, and poor lighting. The system consists of temperature, gas, and light sensors connected to an Arduino board and an LCD display. To record readings and check for fire, gas leaks, or low light, the sensor data is continuously checked. This data is then provided online. The wifi module enables internet capabilities. We will also attach wheels on the sensor that will enable us to guide its movements using the controller.
